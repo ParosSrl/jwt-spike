@@ -1,6 +1,5 @@
 [![][jwt img]][jwt]
 
-# jwt-spike
 A simple JWT spike with Undertow and Resteasy
 
 [jwt]:jwt
